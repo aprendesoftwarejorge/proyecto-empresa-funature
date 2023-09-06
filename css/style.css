@@ -47,7 +47,7 @@ body{
 #novedades .titulo{
     width: 100%;
     text-align: center;
-    color: #fff;
+    color: #000000;
 }
 
 /* sección videos */
@@ -108,7 +108,7 @@ body{
 }
 
 .ft-social{
-    color: #fff;
+    color: #000000;
     border-radius: 100%;
     height: auto;
     width: 50px;
@@ -124,14 +124,14 @@ body{
 }
 
 .footer__title{
-    color: #fff;
+    color: #000000;
     font-weight: 700;
     margin-bottom:30px;
     font-size:1.2rem;
 }
 
 .footer__info{
-    color: #fff;
+    color: #000000;
     line-height:30px;
     font-size: 1.0rem;
 }
