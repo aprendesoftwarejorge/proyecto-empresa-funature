@@ -21,7 +21,7 @@ body{
 }
 
 .nav-link:hover{
-    color: #10bce7;
+    color: #000000;
 }
 
 .alto-img{
@@ -47,7 +47,18 @@ body{
 #novedades .titulo{
     width: 100%;
     text-align: center;
-    color: #000000;
+    color: #ffffff;
+}
+
+#pintura{
+    background-color:#000000;
+}
+
+#pintura .titulo{
+    margin-top: 15%;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
 }
 
 /* sección videos */
@@ -210,4 +221,10 @@ body{
   
   .whatsapp-icon {
     margin-top:13px;
+  }
+
+  #jumbotron{
+    background-image: url('/images/arte-17.jpg') !important;
+    background-size: cover;
+    color: #fff;
   }
